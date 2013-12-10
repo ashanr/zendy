@@ -1,0 +1,11 @@
+<?php 
+
+echo 'welcome to the github';
+
+
+$server_name=$SERVER['REMOTE_ADDR'];
+
+
+
+
+?>
